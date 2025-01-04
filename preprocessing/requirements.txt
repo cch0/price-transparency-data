@@ -1,0 +1,4 @@
+ijson==3.3.0
+s3pathlib==2.3.1
+boto3==1.35.90
+pyarrow==18.1.0
